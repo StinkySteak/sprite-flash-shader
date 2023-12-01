@@ -1,0 +1,7 @@
+{
+  "name": "sprite-flash-shader",
+  "version": "0.1.0",
+  "displayName": "Sprite Flash Shader",
+  "description": "Shader to Change the spriteRenderer instead of adding Tint (default unity shader)",
+  "unity": "2021.3"
+}
